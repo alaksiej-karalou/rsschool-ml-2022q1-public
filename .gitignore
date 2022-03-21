@@ -1,0 +1,4 @@
+.idea
+*.sqlite
+**/.ipynb_checkpoints
+**/tmp
